@@ -25,6 +25,8 @@ O objetivo é abstrair e transformar dados brutos advindos de sistemas DCS/SCADA
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Fluxograma do Projeto
 
--- inserir o fluxograma --
+![Pipeline](https://github.com/user-attachments/assets/8c84c7c6-75d8-41be-9e03-dc4fd463b2f9)
+
+## 📂 Estrutura do Projeto
