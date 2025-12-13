@@ -17,7 +17,7 @@ O objetivo é abstrair e transformar dados brutos advindos de sistemas DCS/SCADA
 - OPC-UA (CP443-1 Siemens)
 - Vs Code (para interface de comunicação entre o CLP S7-400 e o SQL Server)
 - SQL Server (para armazenamento de dados brutos)
-- Python (Pandas, NumPy, Pyodbc, json, opcua)
+- Python (Pandas, NumPy, Pyodbc)
 - Azure Data Lake Storage Gen2 (Arquitetura Medalhão)
 - Databricks (Processamento dos dados)
 - Azure Data Factory (Criação e orquestração da pipeline)
